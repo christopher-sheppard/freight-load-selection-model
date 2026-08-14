@@ -98,9 +98,10 @@ The first is the arithmetic check and it passes. The second is $0.085 higher by 
 
 | File | What it is |
 |---|---|
-| `load-selection-case-study.pdf` | The full write-up. Start here. |
+| `Sheppard_Freight_Load_Selection_Case_Study_v3.docx` | Concise application-facing case study synchronized to the current 18-load, eight-dimension public repository |
+| `load-selection-case-study.pdf` | Detailed public write-up for the model and reconciliation findings |
 | `load-selection-model.xlsx` | Working model, 7 tabs, 423 formulas, fully recalculating |
-| `load-selection-case-study.docx` | Editable source |
+| `load-selection-case-study.docx` | Editable source for the detailed public write-up |
 
 Workbook tabs: **README** · **Assumptions** · **Load Board** · **Scoring Rules** · **Settlement Recon** · **Score a Load** · **Testing**
 
