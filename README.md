@@ -92,6 +92,8 @@ The first is the arithmetic check and it passes. The second is $0.085 higher by 
 
 **Three hard gates** that override the weighted score entirely: negative net contribution, deadhead above tolerance, and legal infeasibility or a blacklisted facility. A weighted average can be dragged upward by strong dimensions while the load remains unacceptable.
 
+[View the as-is / to-be load acceptance workflow map](freight-load-decision-workflow-map.md).
+
 ---
 
 ## Files
@@ -102,6 +104,7 @@ The first is the arithmetic check and it passes. The second is $0.085 higher by 
 | `load-selection-case-study.pdf` | Detailed public write-up for the model and reconciliation findings |
 | `load-selection-model.xlsx` | Working model, 7 tabs, 423 formulas, fully recalculating |
 | `load-selection-case-study.docx` | Editable source for the detailed public write-up |
+| `freight-load-decision-workflow-map.md` | As-is / to-be Mermaid workflow map for the load acceptance decision and settlement-reconciliation loop |
 
 Workbook tabs: **README** · **Assumptions** · **Load Board** · **Scoring Rules** · **Settlement Recon** · **Score a Load** · **Testing**
 
